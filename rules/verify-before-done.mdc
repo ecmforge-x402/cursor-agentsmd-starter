@@ -1,0 +1,7 @@
+---
+description: Verify before declaring a task done
+alwaysApply: true
+---
+- Run the project's test/lint commands from AGENTS.md (if any) before saying a task is done.
+- If verification cannot run, say so explicitly and say what is left unverified.
+- Summarise what changed and why in 3 bullets or fewer.

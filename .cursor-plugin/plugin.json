@@ -1,0 +1,8 @@
+{
+  "name": "cursor-agentsmd-starter",
+  "description": "Free scaffold: generic Cursor rules, a reviewer agent and an AGENTS.md template skill. A starting point you adapt to your own repo, not a finished setup.",
+  "version": "0.1.0",
+  "author": { "name": "ECM Forge" },
+  "license": "MIT",
+  "keywords": ["agents-md", "cursor-rules", "scaffold", "template"]
+}

@@ -1,0 +1,7 @@
+---
+description: Scope a task before editing code
+alwaysApply: true
+---
+- Restate the task in one sentence and list the files you expect to touch before you edit.
+- Ask one clarifying question if the acceptance criteria are missing. Do not guess silently.
+- Prefer the smallest change that meets the stated criteria. Do not refactor unrelated code.

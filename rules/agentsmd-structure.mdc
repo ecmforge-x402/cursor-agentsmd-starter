@@ -1,0 +1,9 @@
+---
+description: Keep AGENTS.md short, structured and current
+globs: AGENTS.md,**/AGENTS.md
+alwaysApply: false
+---
+- Keep AGENTS.md under ~150 lines. Link out for detail instead of pasting it in.
+- Use these sections in order: Project, Commands (build/test/lint), Conventions, Boundaries (never do), Done means.
+- Write commands exactly as they run, in code blocks. Do not use placeholders an agent cannot resolve.
+- When a command or convention changes, update AGENTS.md in the same change.
